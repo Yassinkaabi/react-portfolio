@@ -38,7 +38,7 @@ const Skills = () => {
             className="my-4"
           >
             <a style={{ textDecoration: 'none' }}
-              href="/react-portfolio/Yassine-kaabi-v1.pdf"
+              href="/react-portfolio/Yassine-kaabi-cv.pdf"
               download
             >
               Resume
